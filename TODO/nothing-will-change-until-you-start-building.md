@@ -1,24 +1,24 @@
 > * 原文地址：[Nothing will change until you start building.](https://medium.freecodecamp.com/nothing-will-change-until-you-start-building-2681e85e7bdc)
 > * 原文作者：[Jonathan Z. White](https://medium.freecodecamp.com/@JonathanZWhite?source=post_header_lockup)
 > * 译文出自：[掘金翻译计划](https://github.com/xitu/gold-miner)
-> * 译者：
+> * 译者：[owenlyn](https://github.com/owenlyn)
 > * 校对者：
 
 ---
 
 ![](https://cdn-images-1.medium.com/max/1000/1*EwHpnCZ70FtJMi-lNSl-9Q.png)
 
-# Nothing will change until you start building.
+# Nothing will change until you start building. 真正行动之前 你将一无所成
 
-This past week, I was in a Lyft. My driver was telling me about all of her ideas for side projects. She had ideas for a children’s book, an app that helps people find parking, and a more efficient way to package gifts. The problem was she was frozen by indecision. She had the ideas but she didn’t know where to start.
+This past week, I was in a Lyft. My driver was telling me about all of her ideas for side projects. She had ideas for a children’s book, an app that helps people find parking, and a more efficient way to package gifts. The problem was she was frozen by indecision. She had the ideas but she didn’t know where to start.上周我打了一辆 Lyft 出租车，司机跟我聊了很多关于她的天花乱坠的想法。她的想法里，有一个关于儿童的书籍，有帮助人们停车的APP、有一个更高效的打包礼物的方法，但问题是她总是犹豫不决：她又想法但却不知道从何开始。
 
-This is what I told her. **Start by building. Pick one project and do whatever you have to do to ship it.** If you want to write a book, start with writing a page a day. If you want to build an app, start with some sketches. Anyone can do it.
+This is what I told her. **Start by building. Pick one project and do whatever you have to do to ship it.** If you want to write a book, start with writing a page a day. If you want to build an app, start with some sketches. Anyone can do it. 接下来这段话是我对她说的：**开始一些实际行动吧。选一个项目然后尽可能的去完成它。** 如果你想写一本书，那么从每天写一页开始；如果你像做一个APP，那就从草稿开始。任何人都可以做到这些。
 
-This advice applies to all creators. Once you start building and launching your projects, you won’t be able to stop. Building will become part of your identity. And even if your project fails, you’ll keep at it.
+This advice applies to all creators. Once you start building and launching your projects, you won’t be able to stop. Building will become part of your identity. And even if your project fails, you’ll keep at it. 这些建议对所有创新者都适用。一旦你开始着手在你的项目上，你将会不由自主的继续做下去。创新将会成为你人格的一部分 —— 即使你的项目失败了。
 
-The steps you take today will compound over time. Look at great product makers like [Drew Wilson](https://twitter.com/drewwilson), [Pieter Levels](https://twitter.com/levelsio?), and [Sebastian Dobrincu](https://twitter.com/Sebyddd). **They don’t wait for the right opportunity.** They build and ship weekly.
+The steps you take today will compound over time. Look at great product makers like [Drew Wilson](https://twitter.com/drewwilson), [Pieter Levels](https://twitter.com/levelsio?), and [Sebastian Dobrincu](https://twitter.com/Sebyddd). **They don’t wait for the right opportunity.** They build and ship weekly. 你今天迈出的一小步将会是你人生的一大步。看看那些伟大的产品创造者吧，比如 [Drew Wilson](https://twitter.com/drewwilson), [Pieter Levels](https://twitter.com/levelsio?), 和 [Sebastian Dobrincu](https://twitter.com/Sebyddd)。**他们不仅仅是等待合适的时机。** 他们每周都在更新他们的产品。 
 
-In an interview on [IndieHackers](https://www.indiehackers.com/podcast/006-josh-pigford-of-baremetrics), [Josh Pigford](https://twitter.com/Shpigford) disclosed that before he built Baremetrics, he had iterated through a *hundred* failed ideas. Today, Baremetrics makes over 60,000 in monthly recurring revenue.
+In an interview on [IndieHackers](https://www.indiehackers.com/podcast/006-josh-pigford-of-baremetrics), [Josh Pigford](https://twitter.com/Shpigford) disclosed that before he built Baremetrics, he had iterated through a *hundred* failed ideas. Today, Baremetrics makes over 60,000 in monthly recurring revenue. 在一个[IndieHackers](https://www.indiehackers.com/podcast/006-josh-pigford-of-baremetrics)的访谈中, [Josh Pigford](https://twitter.com/Shpigford) 透露，在他做 Baremetrics 之前，他已经尝试过 *一百个* 失败的点子。 今天， Baremetrics 每个月都会有 60，000 美金进账。
 
 
 ![](https://cdn-images-1.medium.com/max/800/1*BzmVaqAKEzNRybUmMYOxdA.png)
