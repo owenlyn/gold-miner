@@ -18,44 +18,44 @@ This advice applies to all creators. Once you start building and launching your 
 
 The steps you take today will compound over time. Look at great product makers like [Drew Wilson](https://twitter.com/drewwilson), [Pieter Levels](https://twitter.com/levelsio?), and [Sebastian Dobrincu](https://twitter.com/Sebyddd). **They don’t wait for the right opportunity.** They build and ship weekly. 你今天迈出的一小步将会是你人生的一大步。看看那些伟大的产品创造者吧，比如 [Drew Wilson](https://twitter.com/drewwilson), [Pieter Levels](https://twitter.com/levelsio?), 和 [Sebastian Dobrincu](https://twitter.com/Sebyddd)。**他们不仅仅是等待合适的时机。** 他们每周都在更新他们的产品。 
 
-In an interview on [IndieHackers](https://www.indiehackers.com/podcast/006-josh-pigford-of-baremetrics), [Josh Pigford](https://twitter.com/Shpigford) disclosed that before he built Baremetrics, he had iterated through a *hundred* failed ideas. Today, Baremetrics makes over 60,000 in monthly recurring revenue. 在一个[IndieHackers](https://www.indiehackers.com/podcast/006-josh-pigford-of-baremetrics)的访谈中, [Josh Pigford](https://twitter.com/Shpigford) 透露，在他做 Baremetrics 之前，他已经尝试过 *一百个* 失败的点子。 今天， Baremetrics 每个月都会有 60，000 美金进账。
+In an interview on [IndieHackers](https://www.indiehackers.com/podcast/006-josh-pigford-of-baremetrics), [Josh Pigford](https://twitter.com/Shpigford) disclosed that before he built Baremetrics, he had iterated through a *hundred* failed ideas. Today, Baremetrics makes over 60,000 in monthly recurring revenue. 在一个 [IndieHackers](https://www.indiehackers.com/podcast/006-josh-pigford-of-baremetrics) 的节目中, [Josh Pigford](https://twitter.com/Shpigford) 透露，在做 Baremetrics 之前，他已经尝试过 *一百个* 失败的点子。 现在， Baremetrics 每个月都会有 60，000 美金进账。
 
 
 ![](https://cdn-images-1.medium.com/max/800/1*BzmVaqAKEzNRybUmMYOxdA.png)
 
-With that in mind, here are some tactics I’ve compiled from friends and acquaintances who are successful product makers.
+With that in mind, here are some tactics I’ve compiled from friends and acquaintances who are successful product makers.记住这些，接下来的要说的，是我总结的一些来自成功的产品创作者朋友们的策略。
 
 ---
 
-### 1. Define your goal
+### 1. Define your goal确定目标
 
-Early on, figure out the main goal of your project. If you want to break out of your usual design style, focus on the design. If you want to test a new framework for your front-end, focus on the code. If you want to acquire a hundred users, focus on selling.
+Early on, figure out the main goal of your project. If you want to break out of your usual design style, focus on the design. If you want to test a new framework for your front-end, focus on the code. If you want to acquire a hundred users, focus on selling.在开始的时候，确定你的项目要实现的主要目标。如果你想打破你以往的设计风格，那就把心思花在设计上；如果你测试一个新的前端框架，那就把钻研代码；如果你想获得上百个用户（”大量用户“ 会不会好点），就把精力用在销售上。
 
-**Define your goal early so you don’t get distracted and end up not achieving what you set out to do.** Perhaps your project doesn’t become the next Snapchat, but by working towards your goal you will have honed the tools in your product-making arsenal. Little by little, you’ll be able to design, code, and sell faster and more efficiently.
+**Define your goal early so you don’t get distracted and end up not achieving what you set out to do.** Perhaps your project doesn’t become the next Snapchat, but by working towards your goal you will have honed the tools in your product-making arsenal. Little by little, you’ll be able to design, code, and sell faster and more efficiently. **尽早确定目标可以帮助你摆脱诱惑，防止你到最后忘记初心。** 也许你的项目并不能成为下一个 Snapchat, 但是在通往你目标的道路上，你会更加的熟练运用各种做产品的工具。渐渐地，你会拥有越来越强大的设计、代码、销售等的能力。
 
-### 2. Stay on track
+### 2. Stay on track执行计划
 
-Sometimes product makers fail to ship because they lose motivation. **Set small goals; meeting those goals will help you build momentum.** Small wins will compound.
+Sometimes product makers fail to ship because they lose motivation. **Set small goals; meeting those goals will help you build momentum.** Small wins will compound. 有一些产品没能完的原因是作者在半路失去了动力。 **设定一些小目标（比如先赚一个亿）；完成这些目标会让你获得前进的动力。** 小的成就累计起来也是很了不起的。
 
 ![](https://cdn-images-1.medium.com/max/800/1*ESildSVTSSOnFXGDxD-l9w.png)
 
-Another thing you can do to stay on track is to be more public about your work. Share your progress online and with your peers. People love to see things like wireframes and will often times provide valuable input.
+Another thing you can do to stay on track is to be more public about your work. Share your progress online and with your peers. People love to see things like wireframes and will often times provide valuable input.另一个让你保持动力的建议就是让你的项目更加公开。在网上和你的同行们分享你的进展。人们很喜欢看到线框（wireframe 翻译成 ”框架“ 会不会好一点？）类的东西，并常常带来有价值的投入。
 
-One trick that I find particularly motivating is making bets with friends. I tell them, if I don’t complete a task by a deadline, I’ll give them a hundred dollars. For example, I might set my task to getting twenty people to pay me within two weeks of launching a project.
+One trick that I find particularly motivating is making bets with friends. I tell them, if I don’t complete a task by a deadline, I’ll give them a hundred dollars. For example, I might set my task to getting twenty people to pay me within two weeks of launching a project.我自己找到的一个非常有用的保持动力的小秘诀是和朋友打赌。我对他们说，如果我在截止日期前没有完成某个任务，我就给他们一百刀。比如，我会在一个项目开始的两周内找到二十个人打赌。
 
-### 3. Solve a problem
+### 3. Solve a problem 解决一个问题
 
-Start by solving a problem. If you have experienced the problem yourself, even better. Ask your friends what kind of problems they experience.
+Start by solving a problem. If you have experienced the problem yourself, even better. Ask your friends what kind of problems they experience.解决一个问题。如果你自己也经历了这个问题那就再好不过了。问问你的朋友们他们都有哪些问题需要解决。
 
-For example, I built [YC Careers](http://jonathanzwhite.github.io/yc-careers/) and [AtomSpace](https://atomspace.co/) to address the needs of one my friends who was having trouble applying to jobs and interviewing as a product designer. Overnight, YC Careers made it to the top of [ProductHunt](https://www.producthunt.com/posts/yc-careers) and AtomSpace booked $100 dollars from strangers within 6 hours of going live.
+For example, I built [YC Careers](http://jonathanzwhite.github.io/yc-careers/) and [AtomSpace](https://atomspace.co/) to address the needs of one my friends who was having trouble applying to jobs and interviewing as a product designer. Overnight, YC Careers made it to the top of [ProductHunt](https://www.producthunt.com/posts/yc-careers) and AtomSpace booked $100 dollars from strangers within 6 hours of going live.比如，我做了 [YC Careers](http://jonathanzwhite.github.io/yc-careers/) 和 [AtomSpace](https://atomspace.co/) 来解决一个产品设计师朋友找工作和面试的烦恼。一夜之间，YC Careers 一下子爬到了 [ProductHunt](https://www.producthunt.com/posts/yc-careers) 的榜首，AtomSpace 在上线6个小时就拿到了来自陌生人的一百美元订单。
 
-**The bigger the pain point you’re trying to solve, the easier it will be to find users.**
+**The bigger the pain point you’re trying to solve, the easier it will be to find users.你尝试解决多大的痛点，找用户就有多容易。**
 
 Also, analyze problem-solutions from multiple perspectives. Some successful ideas might seem like a solution without a problem. For example, Instagram doesn’t seem to solve any immediate problem. But it does. Instagram solves the need for friends to stay updated on one another. If this need is not met, then it becomes a problem.
 
 For further reading, [John Carmack on Idea Generation](https://amasad.me/carmack) and [How to Get Startup Ideas](http://paulgraham.com/startupideas.html) are two great essays to get you started.
 
-### 4. Ditch the “good idea / bad idea” mindset
+### 4. Ditch the “good idea / bad idea” mindset 放弃”好主意/坏主意“的想法
 
 Once you’ve identified a problem and come up with a solution, you’ll probably ask yourself if your idea is good.
 
@@ -65,7 +65,7 @@ Once you’ve identified a problem and come up with a solution, you’ll probabl
 
 The only way to know for sure if your idea will work is to formulate a product hypothesis and run an experiment to test it. Talk to people and ask if they are interested in your solution. If you can get them to pay you before you’ve built anything, even better.
 
-### 5. Ask for help
+### 5. Ask for help寻求帮助
 
 When working on a project, reach out to people and ask for their help. **You will be surprised at how many people are willing to pay it forward and help a complete stranger.**
 
@@ -75,15 +75,15 @@ Also, when asking for help, be specific and prepare your questions. If you want 
 
 ---
 
-Build and launch your side projects. Use this process as a way to hone your craft so that when opportunity presents itself, you’re ready to take full advantage of it. Luck always favors the prepared.
+Build and launch your side projects. Use this process as a way to hone your craft so that when opportunity presents itself, you’re ready to take full advantage of it. Luck always favors the prepared.开始你的
 
-So next time you come up with an idea, act on it. Identify a problem, define your goal, stay on track, and ask for help.
+So next time you come up with an idea, act on it. Identify a problem, define your goal, stay on track, and ask for help.所以下次你有一个想法的时候，采取行动吧。找到一个问题，确定你的目标，坚持下去，别忘了学会寻求帮助。
 
-What are you working on right now? How can I help you? Leave me a note here or [tweet](https://twitter.com/jonathanzwhite) them to me on Twitter.
+What are you working on right now? How can I help you? Leave me a note here or [tweet](https://twitter.com/jonathanzwhite) them to me on Twitter.你现在在做神马项目呢？有什么是我能帮到你的吗？可以在这里或者我的 [tweet](https://twitter.com/jonathanzwhite) 下面留言。
 
-You can find me on Medium where I publish every week. Or you can follow me on [Twitter](https://twitter.com/JonathanZWhite), where I post non-sensical ramblings about design, front-end development, and virtual reality.
+You can find me on Medium where I publish every week. Or you can follow me on [Twitter](https://twitter.com/JonathanZWhite), where I post non-sensical ramblings about design, front-end development, and virtual reality. 我在 Medium 上每周都会发文。也可以关注我的 [Twitter](https://twitter.com/JonathanZWhite)，我会发一些关于设计、前端开发和虚拟现实的杂想。
 
-*P.S. If you enjoyed this article, it would mean a lot if you click the 💚 and share with friends.*
+*P.S. If you enjoyed this article, it would mean a lot if you click the 💚 and share with friends.*（可删？）
 
 ---
 
